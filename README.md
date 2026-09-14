@@ -2,7 +2,7 @@
 
 Official code release for our paper 📄:
 
-**[What Was Once Learned May Need to Be Unlearned: Machine Unlearning for Deprecated API Knowledge in Large Language Models]**
+**What Was Once Learned May Need to Be Unlearned: Machine Unlearning for Deprecated API Knowledge in Large Language Models**
 
 This repository provides **MUDAPIBench**, a benchmark for evaluating machine unlearning methods on deprecated API knowledge in large language models (LLMs), together with implementations of multiple machine unlearning methods.
 
