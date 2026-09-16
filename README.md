@@ -94,6 +94,8 @@ data/MUDAPIBench/<model_key>/
 
 The benchmark construction pipeline starts from functions collected using Sourcegraph and applies automated filtering to retain instances where the target model actually exhibits the deprecated API behavior.
 
+The code used for benchmark construction is available on [Figshare](https://figshare.com/s/2c73c5b13c7e3f33a1bd).
+
 ## 🚀 Quick Start
 
 ### Run Machine Unlearning
