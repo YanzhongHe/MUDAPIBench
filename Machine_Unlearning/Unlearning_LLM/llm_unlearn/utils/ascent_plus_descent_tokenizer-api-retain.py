@@ -12,7 +12,7 @@ from llm_unlearn.utils import tokenize
 # =========================
 
 MODEL_PATH = "../models/Qwen2.5-Coder-3B"
-DATASET_PATH = "../data/split_data/qwen-forget-retain.json"
+DATASET_PATH = "../data/qwen-forget-retain.json"
 OUTPUT_DIR = "../tokenized_dataset"
 MAX_LEN = 4096
 
