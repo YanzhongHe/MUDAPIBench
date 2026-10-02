@@ -11,7 +11,7 @@ from llm_unlearn.utils import tokenize
 # 配置
 # =========================
 
-MODEL_PATH = "../models/starcoder2-3b"
+MODEL_PATH = "../models/Qwen2.5-Coder-3B"
 DATASET_PATH = "../data/split_data/qwen-forget-retain.json"
 OUTPUT_DIR = "../tokenized_dataset"
 MAX_LEN = 4096
